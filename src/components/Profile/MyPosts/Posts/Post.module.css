@@ -1,0 +1,9 @@
+.Item {
+    color: black;
+}
+
+.Item img {
+    width: 65px;
+    height: 60px;
+    border-radius: 30px;
+}
